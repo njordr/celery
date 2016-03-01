@@ -2,7 +2,7 @@
 
 Container with [celery](http://www.celeryproject.org/) based on ubuntu
 
-The container is configured to use a celery configuration file and a sample app that must be replaced by your app.
+The container is configured to use a celery configuration file and a sample app that must be replaced by your app (change in config file your app details and mount it with -v).
 
 To start the container execute the following commands (docker >= 1.9):
 
